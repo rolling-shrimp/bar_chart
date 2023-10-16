@@ -1,0 +1,96 @@
+.form {
+  /* BG */
+  background: linear-gradient(97deg, #282828 1.72%, #141414 105.91%);
+  /* 50 #E6E6E6 */
+  border: 1px solid #e6e6e6;
+  /* 10% 10 */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  margin-top: 1rem;
+}
+
+.selectH1 {
+  /* Rectangle 286 */
+  width: 100%;
+  height: 68px;
+  /* 200 #DBDBDB */
+  background: #dbdbdb;
+  /* 50 #E6E6E6 */
+  border: 1px solid #e6e6e6;
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  align-items: center;
+  padding-left: 3rem;
+}
+
+.icon {
+  /* icon/ic:outline-auto-graph */
+  width: 36px;
+  height: 36px;
+  /* Inside auto layout */
+  /* Vector */
+}
+
+.searchPtag {
+  font-size: 1.5rem;
+  width: 30%;
+  margin-left: 0.5rem;
+}
+
+.title {
+  width: 90%;
+  margin-left: 3rem;
+}
+
+.icon2 {
+  float: right;
+  /* icon/ic:round-error-outline */
+  width: 24px;
+  height: 24px;
+  border-radius: 50px 50px 0px 0px;
+  /* Vector */
+}
+
+header {
+  /* Rectangle 132 */
+  background: rgba(20, 20, 20, 0.1);
+  opacity: 0.5;
+  box-shadow: inset 51.3333px -51.3333px 51.3333px rgba(15, 15, 15, 0.1), inset -51.3333px 51.3333px 51.3333px rgba(255, 255, 255, 0.1);
+  -webkit-backdrop-filter: blur(51.3333px);
+          backdrop-filter: blur(51.3333px);
+  /* Note: backdrop-filter has minimal browser support */
+  padding: 1rem;
+  height: 100px;
+}
+
+.formcol {
+  padding-left: 1rem;
+  padding-top: 1rem;
+}
+
+.theInputform {
+  height: 250px;
+}
+
+.regionType {
+  margin-top: 2rem;
+}
+
+p {
+  margin-bottom: unset;
+}
+
+.minHeight {
+  min-height: 150vh;
+}
+
+.showing {
+  min-height: 50vh;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.rack {
+  width: 100%;
+  height: 3rem;
+}/*# sourceMappingURL=rootStyles.css.map */
