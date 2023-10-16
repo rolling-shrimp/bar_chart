@@ -1,2 +1,4 @@
 # 使用state lifting概念
-使用state lifting概念從child component()當中拿取 
+使用state lifting概念從child component(SearchForm.jsx)當中拿取使用者在輸入框輸入的搜尋條件，拿取之後將搜尋條件透過axios傳送到後端資料庫進行查找
+# 使用React 網格系統 Grid System達成RWD效果
+
